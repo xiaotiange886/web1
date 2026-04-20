@@ -17,8 +17,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "康翔幸运物流 | 专业的国际物流服务商",
-  description: "康翔幸运物流提供全球海运、空运、陆运及仓储配送服务，致力于为您提供高效、安全的物流解决方案。",
+  title: "网站发布需要修改",
+  description: "网站发布需要修改",
 };
 
 export default function RootLayout({
