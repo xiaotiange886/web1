@@ -2,9 +2,9 @@
 title: '发货去夏威夷，为什么越来越多人选择美国本土中转？'
 date: '2026-05-12'
 excerpt: '相比直发夏威夷，美国本土中转正在成为更稳定、更省钱的物流方案。本文带你了解其中的核心优势。'
-coverImage: 'https://images.unsplash.com/photo-1494412651409-8963ce7935a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80
+coverImage: 'https://images.unsplash.com/photo-1494412651409-8963ce7935a7?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80'
 category: '物流教程'
-slug: '05-12
+slug: '05-12'
 ---
 
 随着越来越多卖家开始布局夏威夷市场，物流问题也逐渐成为关注重点。很多人一开始会选择中国直发夏威夷，但实际操作后才发现，费用高、时效不稳定的问题非常明显。
